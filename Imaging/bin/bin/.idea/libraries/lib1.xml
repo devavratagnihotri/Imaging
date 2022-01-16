@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="lib1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/target/lib/libtensorflow-1.1.0-rc2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/lib/libtensorflow_jni-1.1.0-rc2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/lib/tensorflow-1.1.0-rc2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"com.emaraic.ObjectRecognition","c":"Recognizer","l":"actionPerformed(ActionEvent)","url":"actionPerformed(java.awt.event.ActionEvent)"},{"p":"com.emaraic.ObjectRecognition","c":"Recognizer","l":"main(String[])","url":"main(java.lang.String[])"},{"p":"com.emaraic.ObjectRecognition","c":"Recognizer","l":"Recognizer()","url":"%3Cinit%3E()"}]
